@@ -42,10 +42,10 @@ const Hero = () => {
         <div className="w-full lg:w-1/2 flex justify-end relative">
           <div className="grayscale contrast-125 rounded-2xl overflow-hidden shadow-2xl shadow-blue-200">
             <img 
-              src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1000&auto=format&fit=crop" 
-              alt="Hamza Imtiaz Portrait" 
-              className="max-h-[75vh] object-contain"
-            />
+  src="/hamzaimtiaz2023.jpeg" 
+  alt="Hamza Imtiaz Portrait" 
+  className="max-h-[75vh] object-contain rounded-xl shadow-lg"
+/>
           </div>
         </div>
       </div>
